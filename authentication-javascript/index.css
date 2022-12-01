@@ -1,0 +1,31 @@
+.description{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #eee;
+    margin: 10px;
+    padding: 10px;
+}
+img{
+    border-radius: 30%;
+}
+#SignUp,#SignIn{
+    display: none;
+}
+#sign-up-form{
+    width: 700px;
+    margin: auto;
+    
+}
+#sign-in-form{
+    width: 400px;
+    margin: auto;
+}
+.form-title{
+    font-size: 2.5em;
+    font-weight: 400
+}
+
+#profile-navlink,#signout-navlink{
+    display: none;
+}
